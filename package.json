@@ -1,0 +1,15 @@
+{
+  "name": "image-resizer-electronjs",
+  "version": "1.0.0",
+  "description": "used to resize image",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "author": "Abduljebar Sani",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^24.1.2"
+  }
+}
